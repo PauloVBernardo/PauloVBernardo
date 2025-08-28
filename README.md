@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Snake animation](https://github.com/PauloVBernardo/output/github-snake.svg)
+
 <!--
 **PauloVBernardo/PauloVBernardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
