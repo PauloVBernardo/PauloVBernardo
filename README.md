@@ -64,17 +64,7 @@ Data Scientist | Computer Science Student | Ecologist | Curious | Creative
 
 ## 🌟 Projetos em destaque | Featured Projects
 
-- 📊 [Análise de dados ecológicos com R](https://github.com/PauloVBernardo/ecologia-r)  
-  Scripts em R para visualização e análise de dados ecológicos  
-  R scripts for ecological data analysis and visualization
-
-- 🤖 [Bot de Telegram com Python](https://github.com/PauloVBernardo/telegram-bot)  
-  Automação de mensagens e comandos usando Python  
-  Message and command automation using Python
-
-- 🔍 [Mini projetos de Machine Learning](https://github.com/PauloVBernardo/ml-projects)  
-  Experimentos com algoritmos supervisionados e não supervisionados  
-  Experiments with supervised and unsupervised algorithms
+- Em breve...
 
 ---
 
