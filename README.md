@@ -1,14 +1,13 @@
 # 👋 Olá! Eu sou o Paulo Vitor | Hi there! I'm Paulo Vitor
 
-Cientista de dados | Estudante de Ciências da Computação | Ecólogo | Curioso | Criativo  
-Data Scientist | Computer Science Student | Ecologist | Curious | Creative
+Cientista de dados | Estudante de Ciências da Computação | Biólogo | Professor |Curioso | Criativo  
+Data Scientist | Computer Science Student | Biologyst | Teacher | Curious | Creative
 
 ---
 
 ## 📫 Meus contatos | Contact me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/paulo-vitor-bernardo-09249931)  
-- [![Instagram](https://img.shields.io/badge/Instagram-paulo__dev-purple?logo=instagram&style=for-the-badge)](https://www.instagram.com/paulovbernardo/)  
 - 📧 Email: pauloviti@gmail.com
 
 ---
@@ -29,8 +28,6 @@ Data Scientist | Computer Science Student | Ecologist | Curious | Creative
   Python scripts from courses and personal projects  
 - Códigos em **C** desenvolvidos durante disciplinas da faculdade  
   C code from university assignments  
-- Em breve: meus scripts em **R**, com foco em análise ecológica e estatística  
-  Coming soon: R scripts focused on ecological and statistical analysis  
 - Experimentos com **machine learning** e visualizações interativas  
   Machine learning experiments and interactive visualizations
 
@@ -64,7 +61,13 @@ Data Scientist | Computer Science Student | Ecologist | Curious | Creative
 
 ## 🌟 Projetos em destaque | Featured Projects
 
-- Em breve...
+- [Previsão de Risco Acadêmico](https://github.com/PauloVBernardo/Previsao_Risco_Academico)  
+  Sistema de machine learning para prever risco de reprovação em Matemática, com dashboard interativo para apoio pedagógico.  
+  *Machine learning system to predict risk of failing in Mathematics, with an interactive dashboard for pedagogical support.*  
+
+- [Life Expectancy EDA](https://github.com/PauloVBernardo/life_expectancy_eda)  
+  Análise exploratória de dados sobre expectativa de vida, utilizando Python e visualizações estatísticas.  
+  *Exploratory data analysis on life expectancy, using Python and statistical visualizations.*  
 
 ---
 
